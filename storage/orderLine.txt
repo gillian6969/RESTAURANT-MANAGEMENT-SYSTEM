@@ -1,0 +1,15 @@
+1,Pizza,1,11.0
+2,Pizza,2,22.0
+3,Creamy Garlic & 5 Cheese,2,710.0
+3,Sprite in can,1,50.0
+4,Angel's Supreme,2,710.0
+5,Creamy Garlic & 5 Cheese,1,355.0
+6,Halleluia Mozzarella,3,1110.0
+7,Creamy Garlic & 5 Cheese,1,355.0
+8,Creamy Garlic & 5 Cheese,1,355.0
+9,1.5 Coke,1,95.0
+10,pandesal,100,200.0
+11,Halleluia Mozzarella,1,370.0
+11,toppings So Bongga,2,740.0
+11,Angel's Supreme,1,355.0
+11,Sprite in can,5,250.0
